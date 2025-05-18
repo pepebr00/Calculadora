@@ -3,12 +3,20 @@ __localcode
 .DS_Store
 chromedriver
 .env
+ambiente_virtual
 secao1_preparacao
 secao2_iniciante
 secao3_intermediario
 secao4_orientado_a_objetos
 secao5_modulos_python
-secao6_pyside6
+secao6_pyside6/aula252_qtDesigner
+secao6_pyside6/aula253_qObject_qThread
+secao6_pyside6/aula245_pyside6.py
+secao6_pyside6/aula246_qApplication_qPushButton.py
+secao6_pyside6/aula247_qWidget_qLayout.py
+secao6_pyside6/aula248_qMainWindow_centralWidget.py
+secao6_pyside6/aula249_signal_slots.py
+secao6_pyside6/aula250_classes_herancas.py
 secao7_SQL_com_python
 secao8_django_basico/__pycache__
 secao8_django_basico/db.sqlite3
@@ -21,6 +29,9 @@ secao9_django_projeto_agenda/db.sqlite3
 secao9_django_projeto_agenda/static/
 secao9_django_projeto_agenda/media/
 secao9_django_projeto_agenda/project/local_settings.py
+secao13_type_annotations
+secao17_comandos_SQL
+secao18_HTML_CSS
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
