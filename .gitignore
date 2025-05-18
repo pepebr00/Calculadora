@@ -21,9 +21,11 @@ secao7_SQL_com_python
 secao8_django_basico/__pycache__
 secao8_django_basico/db.sqlite3
 secao8_django_basico/static_files
+secao8_django_basico
 *.log
 *.pot
 *.pyc
+secao9_django_projeto_agenda
 secao9_django_projeto_agenda/__pycache__
 secao9_django_projeto_agenda/db.sqlite3
 secao9_django_projeto_agenda/static/
