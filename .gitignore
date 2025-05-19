@@ -16,11 +16,12 @@ secao8_django_basico
 *.log
 *.pot
 *.pyc
-secao9_agenda_contatos/__pycache__
-secao9_agenda_contatos/db.sqlite3
-secao9_agenda_contatos/static/
-secao9_agenda_contatos/media/
-secao9_agenda_contatos/project/local_settings.py
+secao9_projeto_agenda
+agenda_contatos/__pycache__
+agenda_contatos/db.sqlite3
+agenda_contatos/static/
+agenda_contatos/media/
+agenda_contatos/project/local_settings.py
 secao13_type_annotations
 secao17_comandos_SQL
 secao18_HTML_CSS
