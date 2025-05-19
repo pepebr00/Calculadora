@@ -15,12 +15,13 @@ Um site de agenda de contatos, também feito com Python, HTML e CSS. Permite adi
 - Python 3
 - HTML5
 - CSS3
-- 
+
 ## Como executar os projetos localmente
 
 ### Pré-requisitos
 
-- Python instalado
+- Vscode instalado 
+- Extensão do Python instalada
 - Git instalado
 
 ### Clonando o repositório
