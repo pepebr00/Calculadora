@@ -1,6 +1,6 @@
 # Projetos do Curso de Python - Udemy
 
-Este repositório contém os projetos desenvolvidos durante o curso de Python na Udemy. Os projetos utilizam Python como linguagem principal, com suporte de HTML e CSS para a interface visual e Django para desenvolvimento web.
+Este repositório contém os projetos que eu desenvolvi durante o curso de Python na Udemy. Os projetos utilizam Python como linguagem principal, com suporte de HTML e CSS para a interface visual e Django para desenvolvimento web.
 
 ## Projetos desenvolvidos
 
@@ -8,7 +8,7 @@ Este repositório contém os projetos desenvolvidos durante o curso de Python na
 Uma calculadora simples feita com Python, HTML e CSS. Permite operações básicas com uma interface amigável.
 
 ### 2. Agenda de Contatos 
-Um site de agenda de contatos, também feito com Python, HTML, CSS e utilização do Django para criação do site. Permite adicionar, editar, excluir e visualizar contatos. 
+Um site de agenda de contatos, também feito com Python, HTML, CSS e utilização do Django para criação do site. Permite adicionar, editar, excluir e visualizar contatos. A aplicação etá online por meio de um endereço de IP. 
 
 ## Tecnologias utilizadas
 
