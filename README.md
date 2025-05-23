@@ -8,7 +8,7 @@ Este repositório contém os projetos que eu desenvolvi durante o curso de Pytho
 Uma calculadora simples feita com Python, HTML e CSS. Permite operações básicas com uma interface amigável.
 
 ### 2. Agenda de Contatos 
-Um site de agenda de contatos, também feito com Python, HTML, CSS e utilização do Django para criação do site. Permite adicionar, editar, excluir e visualizar contatos. A aplicação etá online por meio de um endereço de IP. 
+Um site de agenda de contatos, também feito com Python, HTML, CSS e utilização do Django para criação do site. Permite adicionar, editar, excluir e visualizar contatos. A aplicação etá online por meio de um endereço de IP (http://34.66.74.85).
 
 ## Tecnologias utilizadas
 
