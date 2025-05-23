@@ -5,7 +5,8 @@ chromedriver
 *.pyc
 agenda_contatos/static/
 agenda_contatos/media/
-agenda_contato/gunicorn-error.log
+agenda_contatos/comandos_django
+agenda_contatos/gunicorn-error.log
 secao1_preparacao
 secao2_iniciante
 secao3_intermediario
