@@ -1,6 +1,6 @@
 # Projetos do Curso de Python - Udemy
 
-Este repositório contém os projetos que eu desenvolvi durante o curso de Python na Udemy. Os projetos utilizam Python como linguagem principal, com suporte de HTML e CSS para a interface visual e Django para desenvolvimento web.
+Este repositório contém os projetos que eu desenvolvi durante o curso de Python chamado "Curso de Python 3 do básico ao avançado - com projetos reais" na Udemy, ministrado pelo Luiz Otávio Miranda. Os projetos utilizam Python como linguagem principal, com suporte de HTML e CSS para a interface visual e Django para desenvolvimento web.
 
 ## Projetos desenvolvidos
 
