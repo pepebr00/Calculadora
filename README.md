@@ -5,7 +5,8 @@ Este repositório contém os projetos que eu desenvolvi durante o curso de Pytho
 ## Projetos desenvolvidos
 
 ### 1. Calculadora 
-Uma calculadora simples feita com Python, HTML e CSS. Permite operações básicas com uma interface amigável.
+Uma calculadora simples feita com Python, HTML e CSS. Permite operações básicas com uma interface amigável. App disponível no arquivo zipado
+(https://drive.google.com/file/d/1K7Y6CHFNy9Loh4_MUYzEY8sgkjM3aONV/view?usp=drive_link).
 
 ### 2. Agenda de Contatos 
 Um site de agenda de contatos, também feito com Python, HTML, CSS e utilização do Django para criação do site. Permite adicionar, editar, excluir e visualizar contatos. A aplicação etá online por meio de um endereço de IP (http://34.66.74.85).
