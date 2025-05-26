@@ -14,12 +14,22 @@ Um site de agenda de contatos, também feito com Python, HTML, CSS e utilizaçã
 ### 3. Blog (Em desenvolvimento)
 Uma plataforma de blog robusta, desenvolvida com Python, Django e rodando a aplicação no Docker. Permite a criação e o gerenciamento de posts, com suporte a comentários e interação de usuários.
 
-## Tecnologias utilizadas
+## Linguagens utilizadas
 
 - Python 3
 - HTML5
 - CSS3
 - Django
+
+## Programas utilizados 
+
+- Vscode
+- Docker
+- MySQL
+- SQLite
+- PostgreSQL
+- DBeaver
+
 
 ## Como executar os projetos localmente
 
