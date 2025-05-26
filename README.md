@@ -32,5 +32,5 @@ Uma plataforma de blog robusta, desenvolvida com Python, Django e rodando a apli
 ### Clonando o repositório
 
 ```bash
-https://github.com/pepebr00/Curso_Python.git
+git clone https://github.com/pepebr00/Curso_Python.git
 cd Curso_Python
