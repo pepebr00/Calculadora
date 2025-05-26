@@ -25,11 +25,7 @@ Uma plataforma de blog robusta, desenvolvida com Python, Django e rodando a apli
 
 - Vscode
 - Docker
-- MySQL
-- SQLite
 - PostgreSQL
-- DBeaver
-
 
 ## Como executar os projetos localmente
 
