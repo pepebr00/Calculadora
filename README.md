@@ -38,6 +38,7 @@ Uma plataforma de blog robusta, desenvolvida com Python, Django e rodando a apli
 - Vscode instalado
 - Docker instalado
 - Extensão do Python instalada
+- Extensão do Django instalada
 - Git instalado
 
 ### Clonando o repositório
