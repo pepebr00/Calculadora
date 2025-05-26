@@ -10,7 +10,6 @@ projeto_blog/data/
 projeto_blog/djangoapp/media/
 projeto_blog/djangoapp/project/local_settings.py
 gunicorn-error-log
-__localcode
 data/
 secao1_preparacao
 secao2_iniciante
