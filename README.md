@@ -11,7 +11,7 @@ Uma calculadora simples feita com Python, HTML e CSS. Permite operações básic
 Um site de agenda de contatos, também feito com Python, HTML, CSS e utilização do Django para criação do site. Permite adicionar, editar, excluir e visualizar contatos. A aplicação etá online por meio de um endereço de IP (http://34.66.74.85).
 
 ### 3. Blog
-Uma plataforma de blog robusta, desenvolvida com Python, Django e rodando a aplicação no Docker. Permitindo a criação e o gerenciamento de posts, com suporte a comentários e interação de usuários.
+Uma plataforma de blog robusta, desenvolvida com Python, Django e rodando a aplicação no Docker. Permite a criação e o gerenciamento de posts, com suporte a comentários e interação de usuários.
 
 ## Tecnologias utilizadas
 
