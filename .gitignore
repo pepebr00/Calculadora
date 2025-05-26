@@ -2,9 +2,9 @@ __localcode
 ambiente_virtual/
 .DS_Store
 chromedriver
-agenda_contatos/static/
-agenda_contatos/media/
-agenda_contatos/comandos_django
+agenda_de_contatos/static/
+agenda_de_contatos/media/
+agenda_de_contatos/comandos_django
 projeto_blog/djangoapp/static/
 projeto_blog/data/
 projeto_blog/djangoapp/media/
