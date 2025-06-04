@@ -9,17 +9,16 @@ Uma calculadora simples feita com Python, HTML e CSS. Permite operações básic
 (https://drive.google.com/file/d/1K7Y6CHFNy9Loh4_MUYzEY8sgkjM3aONV/view?usp=drive_link).
 
 ### 2. Agenda de Contatos 
-Um site de agenda de contatos, também feito com Python, HTML, CSS e utilização do Django para criação do site. Permite adicionar, editar, excluir e visualizar contatos. A aplicação etá online por meio de um endereço de IP (http://34.66.74.85).
+Um site de agenda de contatos, também feito com Python, HTML, CSS e utilização do Django para criação do site. Permite adicionar, editar, excluir e visualizar contatos. A aplicação está online por meio de um endereço de IP (http://34.66.74.85).
 
-### 3. Blog (Em desenvolvimento)
-Uma plataforma de blog robusta, desenvolvida com Python, Django e rodando a aplicação no Docker. Permite a criação e o gerenciamento de posts, com suporte a comentários e interação de usuários.
+### 3. Blog
+Uma plataforma de blog robusta, desenvolvida com Python, Django e rodando a aplicação no Docker. Permite a criação e o gerenciamento de posts, com suporte a comentários e interação de usuários. A aplicação está online por meio de contêineres no docker, em ambiente local (127.0.0.1:8000).
 
 ## Linguagens utilizadas
 
 - Python 3
 - HTML5
 - CSS3
-- Django
 
 ## Programas utilizados 
 
