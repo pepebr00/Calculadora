@@ -8,6 +8,7 @@ agenda_de_contatos/comandos_django
 projeto_blog/djangoapp/static/
 projeto_blog/data/
 projeto_blog/djangoapp/media/
+projeto_blog/comandos
 projeto_blog/djangoapp/project/local_settings.py
 gunicorn-error-log
 data/
