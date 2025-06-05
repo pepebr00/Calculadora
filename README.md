@@ -1,6 +1,6 @@
 # Projetos do Curso de Python - Udemy
 
-Este repositório contém os projetos que eu desenvolvi durante o curso de Python chamado "Curso de Python 3 do básico ao avançado - com projetos reais" na Udemy, ministrado pelo Luiz Otávio Miranda. Os projetos utilizam Python como linguagem principal, com suporte de HTML e CSS para a interface visual e Django para desenvolvimento web.
+Este repositório contém os projetos que eu desenvolvi durante o curso de Python chamado "Curso de Python 3 do básico ao avançado - com projetos reais" na Udemy, ministrado pelo Luiz Otávio Miranda. Os projetos utilizam Python como linguagem principal, com suporte de HTML e CSS para a interface visual e Django e JavaScript para desenvolvimento web.
 
 ## Projetos desenvolvidos
 
@@ -14,17 +14,22 @@ Um site de agenda de contatos, também feito com Python, HTML, CSS e utilizaçã
 ### 3. Blog
 Uma plataforma de blog robusta, desenvolvida com Python, Django e rodando a aplicação no Docker. Permite a criação e o gerenciamento de posts, com suporte a comentários e interação de usuários. A aplicação está online por meio de contêiner no docker, em ambiente local (127.0.0.1:8000).
 
+### 4. E-commerce (Em desenvolvimento)
+Este projeto visa desenvolver uma plataforma de e-commerce completa, permitindo a exibição de produtos, gerenciamento de carrinho de compras, processamento de pedidos e autenticação de usuários. Será construído utilizando Python com Django e JavaScript para o backend, e HTML e CSS para o frontend. Pastas disponíveis no arquivo zipado (https://drive.google.com/file/d/1k_OdDYXgNB87M5iymtNdEESsPaVDO4rU/view?usp=drive_link).
+
 ## Linguagens utilizadas
 
 - Python 3
 - HTML5
 - CSS3
+- JavaScript
 
 ## Programas utilizados 
 
 - Vscode
 - Docker
 - PostgreSQL
+- Google Cloud Platform
 
 ## Como executar os projetos localmente
 
