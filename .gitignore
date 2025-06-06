@@ -12,6 +12,7 @@ projeto_blog/comandos
 e_commerce/templates/static/
 e_commerce/data/
 e_commerce/media/
+e_commerce/LICENSE.txt
 gunicorn-error-log
 data/
 secao1_preparacao
