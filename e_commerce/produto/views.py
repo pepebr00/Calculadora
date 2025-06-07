@@ -4,6 +4,7 @@ from django.views.generic.detail import DetailView
 from django.views import View
 from django.http import HttpResponse
 from django.contrib import messages
+from .models import Produto
 from django.db.models import Q
 
 from . import models
@@ -18,25 +19,29 @@ class ListaProdutos(ListView):
     ordering = ['-id']
 
 
-class Busca(ListaProdutos):
-    def get_queryset(self, *args, **kwargs):
-        termo = self.request.GET.get('termo') or self.request.session['termo']
-        qs = super().get_queryset(*args, **kwargs)
+class Busca(ListView):
+    model = Produto
+    template_name = 'produto/lista.html'
+    context_object_name = 'produtos'
+    paginate_by = 9 
 
-        if not termo:
-            return qs
+    def get_queryset(self):
+        if 'termo' in self.request.GET:
+            termo = self.request.GET.get('termo')
+            self.request.session['termo'] = termo
+        else:
+            termo = self.request.session.get('termo', '')
 
-        self.request.session['termo'] = termo
+        qs = super().get_queryset().order_by('-id') 
 
-        qs = qs.filter(
-            Q(nome__icontains=termo) |
-            Q(descricao_curta__icontains=termo) |
-            Q(descricao_longa__icontains=termo)
-        )
+        if termo: 
+            qs = qs.filter(
+                Q(nome__icontains=termo) |
+                Q(descricao_curta__icontains=termo) |
+                Q(descricao_longa__icontains=termo)
+            ).distinct()
 
-        self.request.session.save()
         return qs
-
 
 class DetalheProduto(DetailView):
     model = models.Produto
